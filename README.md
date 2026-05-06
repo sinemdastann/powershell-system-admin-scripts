@@ -36,6 +36,17 @@ Scriptleri çalıştırmadan önce PowerShell'i yönetici olarak açmanız ve ge
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
+## Script Listesi
+
+| Klasör | Dosya | Açıklama |
+|---|---|---|
+| active-directory | locked-users.ps1 | Active Directory üzerinde kilitli kullanıcı hesaplarını listeler. |
+| active-directory | disabled-users-report.ps1 | Active Directory üzerinde devre dışı bırakılmış kullanıcı hesaplarını raporlar. |
+| network | test-port.ps1 | Belirtilen IP adresi veya sunucu üzerinde port bağlantı testi yapar. |
+| windows-server | service-status-check.ps1 | Windows Server üzerinde önemli servislerin durumunu kontrol eder. |
+| microsoft-365 | license-check.ps1 | Microsoft 365 kullanıcı lisans durumlarını Microsoft Graph ile kontrol eder. |
+
 ## Hazırlayan
 
 Sinem Daştan  
