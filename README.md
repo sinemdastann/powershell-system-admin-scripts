@@ -35,3 +35,8 @@ Scriptleri çalıştırmadan önce PowerShell'i yönetici olarak açmanız ve ge
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+## Hazırlayan
+
+Sinem Daştan  
+Bilgi İşlem Uzmanı
