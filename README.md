@@ -24,6 +24,7 @@ powershell-system-admin-scripts/
 ├── network/
 ├── windows-server/
 └── README.md
+```
 ## Güvenlik Notu
 
 Bu repoda kurum adı, gerçek domain, gerçek IP adresi veya kişisel veri kullanılmamalıdır. Tüm örnekler test ortamına uygun şekilde hazırlanmalıdır.
